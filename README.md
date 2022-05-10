@@ -3,6 +3,8 @@
  프론트엔드 개발 새싹🌱💻
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdh5018&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### ✏ Studying ✏
 <p>
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
