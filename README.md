@@ -3,16 +3,6 @@
  프론트엔드 개발 새싹🌱💻
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdh5018&layout=compact)](https://github.com/kdh5018/github-readme-stats)
-
-
-### ✏ Studying ✏
-<p>
- <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
- <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-</p>
-
 
 
 
