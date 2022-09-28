@@ -1,9 +1,12 @@
 <div align="center">
   
   ### Hi there 👋
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdh5018&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdh5018&layout=compact&theme=tokyonight)
+  <p>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdh5018&show_icons=true&theme=radical)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdh5018&layout=compact&theme=tokyonight)
+  </p>
+    
+
 
   ### 🛠 Stacks 🛠
   <p>
