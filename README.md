@@ -1,4 +1,4 @@
-<div align="center">
+
   
   ### Hi there 👋
 
@@ -29,4 +29,4 @@
   - 😄 Pronouns: ...
   - ⚡ Fun fact: ...
   -->
-</div>
+
