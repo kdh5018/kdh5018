@@ -7,7 +7,7 @@
 
 
    
-  ### 🛠 Stacks 🛠
+  ### 👨🏻‍💻Studying📚
   <p>
     <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=000000"/>
     <img src="https://img.shields.io/badge/UIkit-2396F3?style=flat&logo=UIkit&logoColor=000000"/>
