@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Reactivex-B7178C?style=flat&logo=reactivex&logoColor=000000"/>
     <img src="https://img.shields.io/badge/UIkit-2396F3?style=flat&logo=UIkit&logoColor=000000"/>
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=000000"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=000000"/>
   </p>
 
